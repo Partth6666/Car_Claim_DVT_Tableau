@@ -1,4 +1,5 @@
 # Car_Claim_Isurance_DVT_Tableau
+# Car Insurance Claim Analysis
 # Business Context:
 Accidents occur worldwide due to various factors such as negligent driving, adverse climatic conditions, and infrastructure issues. These incidents lead to a significant number of insurance claims, posing a challenge for insurance companies. Accurately estimating the number of accidents and subsequent claims is crucial for the sustainability and profitability of the business. By analyzing the claims data, insurance companies can anticipate future claims, optimize their financial reserves, and develop innovative policies.
 
